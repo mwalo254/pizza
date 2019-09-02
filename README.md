@@ -10,7 +10,7 @@ When the "Order" button is clicked it adds the clicked items to the to price tab
 ## Installation Requirements
 Create an account on Github Fork the repository from Github:https://github.com/mwalo254/pizza.git Clone the link Open the link from where the repository is saved.
 
-Known Bugs
+## Known Bugs
 
 None.
 
