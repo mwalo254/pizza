@@ -11,7 +11,7 @@ User enters required credentials
 Alert dialog box
 
 ## Installation Requirements
-Create an account on Github Fork the repository from Github:https://github.com/mwalo254/pizza.git Clone the link Open the link from where the repository is saved
+Create an account on Github Fork the repository from Github:https://github.com/mwalo254/pizza.git Clone the link Open the link from where the repository is saved.
 
 Known Bugs
 
@@ -32,4 +32,4 @@ jQuery - To easen use of JavaScript on your website
 You can get to me through mwalonick@gmail.com.
 
 ## License.
-MIT Copyright (c) 2019 MITlicense
+MIT Copyright (c) 2019 MITlicense.
