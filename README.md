@@ -22,9 +22,9 @@ HTML - For building the user interface.
 
 CSS - For styling the user interface.
 
-Javascript - For document object manipulation
+Javascript - For document object manipulation.
 
-Bootstrap - For styling the interface
+Bootstrap - For styling the interface.
 
 jQuery - To easen use of JavaScript on your website
 
