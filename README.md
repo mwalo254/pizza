@@ -23,7 +23,7 @@ Javascript - For document object manipulation.
 
 Bootstrap - For styling the interface.
 
-jQuery - To easen use of JavaScript on your website.
+jQuery - To easen use of JavaScript on your website
 
 ## Support and contact details
 You can get to me through mwalonick@gmail.com.
