@@ -5,7 +5,10 @@ By Nick Mwalo
 This is a web application that allow you to order pizza online
 
 ## Behaviour Driven Development(BDD)
-Behaviour	Input	Output Form to be filled	User enters required credentials	Alert dialog box
+Behaviour	
+Input	Output Form to be filled	
+User enters required credentials
+Alert dialog box
 
 ## Installation Requirements
 Create an account on Github Fork the repository from Github:https://github.com/mwalo254/pizza.git Clone the link Open the link from where the repository is saved
