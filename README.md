@@ -18,9 +18,9 @@ Known Bugs
 None.
 
 ## Technologies Used
-HTML - For building the user interface
+HTML - For building the user interface.
 
-CSS - For styling the user interface
+CSS - For styling the user interface.
 
 Javascript - For document object manipulation
 
