@@ -43,6 +43,7 @@ $('.btn.order').click(function() {
     var newRow = '<tr><th scope="row">' + newPizza.orderNo + '</th><td id="size">' + $(".size option:selected").text() + " - " + newPizza.size + '</td><td id="toppings">' + $(".toppings option:selected").text() + " - " + newPizza.toppings + '</td><td id="crust">' + $(".crust option:selected").text() + " - " + newPizza.crust + '</td><td id="total">' + newPizza.total + '</td></tr>'
 
     $("#pizza").append(newRow);
+    alert('order recived and we are processing your payment in seconds!')
   });
 
   $(".btn.check-out").click(function() {
@@ -69,7 +70,6 @@ $('.btn.order').click(function() {
     $(".additional-info h4").show();
     $(".additional-info .location").hide();
     $(".additional-info h4 span").html(location);
-    alert('order recived and we are processing your payment in seconds!')
   });
 
 });
