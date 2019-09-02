@@ -2,7 +2,7 @@
 By Nick Mwalo
 
 ## Description
-This is a web application that allow you to order pizza online and delivered to you.
+This is a web application that allow you as the user to order pizza online and delivered to you.
 
 ## Behaviour Driven Development(BDD)
 When the "Order" button is clicked it adds the clicked items to the to price table and once the user clicks on the checkout button and puts in their location the application informs him or her of successful submission.
@@ -23,7 +23,7 @@ Javascript - For document object manipulation.
 
 Bootstrap - For styling the interface.
 
-jQuery - To easen use of JavaScript on your website
+jQuery - To easen use of JavaScript on your website.
 
 ## Support and contact details
 You can get to me through mwalonick@gmail.com.
