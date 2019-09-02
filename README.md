@@ -2,7 +2,7 @@
 By Nick Mwalo
 
 ## Description
-This is a web application that allow you to order pizza online
+This is a web application that allow you to order pizza online and delivered to you.
 
 ## Behaviour Driven Development(BDD)
 Behaviour	
