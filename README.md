@@ -14,7 +14,7 @@ Create an account on Github Fork the repository from Github:https://github.com/m
 
 None.
 
-## Technologies Used
+## Technologies Used:
 HTML - For building the user interface.
 
 CSS - For styling the user interface.
