@@ -1,5 +1,5 @@
 ## Pizza Project
-By Nick Mwalo
+By Nick Mwalo.
 
 ## Description
 This is a web application that allow you as the user to order pizza online and delivered to you.
